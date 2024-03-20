@@ -1,0 +1,28 @@
+{
+  "name": "frosty-window-effect",
+  "version": "1.0.6",
+  "description": "Apply a frosty glass effect to web elements for a winter feel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francescatortelli/frosty-window-effect"
+  },
+  "keywords": [
+    "frosty",
+    "glass-effect",
+    "winter",
+    "css",
+    "web-design"
+  ],
+  "author": "Cassidy Lane",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.32.8",
+    "postcss": "^8.2.8",
+    "autoprefixer": "^10.2.5",
+    "css-blur": "^1.0.0"
+  }
+}
